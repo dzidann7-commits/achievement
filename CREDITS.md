@@ -5,3 +5,4 @@
 Collaboration file for the Pair Extraordinaire badge.
 
 Thanks to [Mochammad Rizky Zidane](https://github.com/Latarombo) for mentoring this repo setup.
+- [x] collaboration
